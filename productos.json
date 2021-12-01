@@ -1,0 +1,12 @@
+[
+    {
+        "title": "cerveza",
+        "price": 120,
+        "descr": "con alcohol"
+    },
+    {
+        "title": "gaseosa",
+        "price": 180,
+        "descr": "sin alcohol"
+    }
+]
